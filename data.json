@@ -2207,7 +2207,7 @@
 
 ]
 
-
+{
    "name": "Tera Hone Laga Hoon",
    "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
    "album": "Ajab Prem Ki Ghazab Kahani",
@@ -2216,5 +2216,15 @@
    "genre": ["Romantic"],
    "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
 }
+{
+   "id": 219,
+   "name": "Fanaa",
+   "lyrics": "https://microlyrics.com/fanaa-lyrics",
+   "album": "Anand",
+   "Duration": "4 min 00 sec",
+   "singer": ["MANNA DEY"],
+   "genre": ["Sad","Emotional"],
+   "link": "https://www.youtube.com/watch?v=-y6_cFZsMJA"
+},
 
 ]
